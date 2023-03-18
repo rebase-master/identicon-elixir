@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**This is a sample project created by following Udemy's [The Complete Elixir and Phoenix Bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)**
 
 ## Installation
 
